@@ -1,0 +1,1578 @@
+{
+  "educational": {
+    "professional": {
+      "AUD": {
+        "2": {
+          "price_in_cents": 64200
+        },
+        "3": {
+          "price_in_cents": 96300
+        },
+        "4": {
+          "price_in_cents": 128400
+        },
+        "5": {
+          "price_in_cents": 160500
+        },
+        "10": {
+          "price_in_cents": 179000
+        },
+        "20": {
+          "price_in_cents": 330000
+        },
+        "50": {
+          "price_in_cents": 755000
+        }
+      },
+      "BRL": {
+        "2": {
+          "price_in_cents": 139800
+        },
+        "3": {
+          "price_in_cents": 209700
+        },
+        "4": {
+          "price_in_cents": 279600
+        },
+        "5": {
+          "price_in_cents": 349500
+        },
+        "10": {
+          "price_in_cents": 389000
+        },
+        "20": {
+          "price_in_cents": 718000
+        },
+        "50": {
+          "price_in_cents": 1645000
+        }
+      },
+      "CAD": {
+        "2": {
+          "price_in_cents": 62800
+        },
+        "3": {
+          "price_in_cents": 94200
+        },
+        "4": {
+          "price_in_cents": 125600
+        },
+        "5": {
+          "price_in_cents": 157000
+        },
+        "10": {
+          "price_in_cents": 175000
+        },
+        "20": {
+          "price_in_cents": 322000
+        },
+        "50": {
+          "price_in_cents": 740000
+        }
+      },
+      "CHF": {
+        "2": {
+          "price_in_cents": 55800
+        },
+        "3": {
+          "price_in_cents": 83700
+        },
+        "4": {
+          "price_in_cents": 111600
+        },
+        "5": {
+          "price_in_cents": 139500
+        },
+        "10": {
+          "price_in_cents": 155000
+        },
+        "20": {
+          "price_in_cents": 286000
+        },
+        "50": {
+          "price_in_cents": 655000
+        }
+      },
+      "CLP": {
+        "2": {
+          "price_in_cents": 33738600
+        },
+        "3": {
+          "price_in_cents": 50607900
+        },
+        "4": {
+          "price_in_cents": 67477200
+        },
+        "5": {
+          "price_in_cents": 84346500
+        },
+        "10": {
+          "price_in_cents": 93986000
+        },
+        "20": {
+          "price_in_cents": 173512000
+        },
+        "50": {
+          "price_in_cents": 397630000
+        }
+      },
+      "COP": {
+        "2": {
+          "price_in_cents": 110586000
+        },
+        "3": {
+          "price_in_cents": 165879000
+        },
+        "4": {
+          "price_in_cents": 221172000
+        },
+        "5": {
+          "price_in_cents": 276465000
+        },
+        "10": {
+          "price_in_cents": 308061000
+        },
+        "20": {
+          "price_in_cents": 568728000
+        },
+        "50": {
+          "price_in_cents": 1303335000
+        }
+      },
+      "DKK": {
+        "2": {
+          "price_in_cents": 333000
+        },
+        "3": {
+          "price_in_cents": 499500
+        },
+        "4": {
+          "price_in_cents": 666000
+        },
+        "5": {
+          "price_in_cents": 832500
+        },
+        "10": {
+          "price_in_cents": 927000
+        },
+        "20": {
+          "price_in_cents": 1712000
+        },
+        "50": {
+          "price_in_cents": 3925000
+        }
+      },
+      "EUR": {
+        "2": {
+          "price_in_cents": 51600
+        },
+        "3": {
+          "price_in_cents": 77400
+        },
+        "4": {
+          "price_in_cents": 103200
+        },
+        "5": {
+          "price_in_cents": 129000
+        },
+        "10": {
+          "price_in_cents": 143000
+        },
+        "20": {
+          "price_in_cents": 264000
+        },
+        "50": {
+          "price_in_cents": 605000
+        }
+      },
+      "GBP": {
+        "2": {
+          "price_in_cents": 44600
+        },
+        "3": {
+          "price_in_cents": 66900
+        },
+        "4": {
+          "price_in_cents": 89200
+        },
+        "5": {
+          "price_in_cents": 111500
+        },
+        "10": {
+          "price_in_cents": 124000
+        },
+        "20": {
+          "price_in_cents": 228000
+        },
+        "50": {
+          "price_in_cents": 525000
+        }
+      },
+      "INR": {
+        "2": {
+          "price_in_cents": 1343800
+        },
+        "3": {
+          "price_in_cents": 2015700
+        },
+        "4": {
+          "price_in_cents": 2687600
+        },
+        "5": {
+          "price_in_cents": 3359500
+        },
+        "10": {
+          "price_in_cents": 3743000
+        },
+        "20": {
+          "price_in_cents": 6910000
+        },
+        "50": {
+          "price_in_cents": 15835000
+        }
+      },
+      "MXN": {
+        "2": {
+          "price_in_cents": 825800
+        },
+        "3": {
+          "price_in_cents": 1238700
+        },
+        "4": {
+          "price_in_cents": 1651600
+        },
+        "5": {
+          "price_in_cents": 2064500
+        },
+        "10": {
+          "price_in_cents": 2300000
+        },
+        "20": {
+          "price_in_cents": 4246000
+        },
+        "50": {
+          "price_in_cents": 9730000
+        }
+      },
+      "NOK": {
+        "2": {
+          "price_in_cents": 401600
+        },
+        "3": {
+          "price_in_cents": 602400
+        },
+        "4": {
+          "price_in_cents": 803200
+        },
+        "5": {
+          "price_in_cents": 1004000
+        },
+        "10": {
+          "price_in_cents": 1118000
+        },
+        "20": {
+          "price_in_cents": 2064000
+        },
+        "50": {
+          "price_in_cents": 4730000
+        }
+      },
+      "NZD": {
+        "2": {
+          "price_in_cents": 64200
+        },
+        "3": {
+          "price_in_cents": 96300
+        },
+        "4": {
+          "price_in_cents": 128400
+        },
+        "5": {
+          "price_in_cents": 160500
+        },
+        "10": {
+          "price_in_cents": 179000
+        },
+        "20": {
+          "price_in_cents": 330000
+        },
+        "50": {
+          "price_in_cents": 755000
+        }
+      },
+      "PEN": {
+        "2": {
+          "price_in_cents": 134200
+        },
+        "3": {
+          "price_in_cents": 201300
+        },
+        "4": {
+          "price_in_cents": 268400
+        },
+        "5": {
+          "price_in_cents": 335500
+        },
+        "10": {
+          "price_in_cents": 374000
+        },
+        "20": {
+          "price_in_cents": 690000
+        },
+        "50": {
+          "price_in_cents": 1580000
+        }
+      },
+      "SEK": {
+        "2": {
+          "price_in_cents": 401600
+        },
+        "3": {
+          "price_in_cents": 602400
+        },
+        "4": {
+          "price_in_cents": 803200
+        },
+        "5": {
+          "price_in_cents": 1004000
+        },
+        "10": {
+          "price_in_cents": 1118000
+        },
+        "20": {
+          "price_in_cents": 2064000
+        },
+        "50": {
+          "price_in_cents": 4730000
+        }
+      },
+      "SGD": {
+        "2": {
+          "price_in_cents": 72600
+        },
+        "3": {
+          "price_in_cents": 108900
+        },
+        "4": {
+          "price_in_cents": 145200
+        },
+        "5": {
+          "price_in_cents": 181500
+        },
+        "10": {
+          "price_in_cents": 202000
+        },
+        "20": {
+          "price_in_cents": 372000
+        },
+        "50": {
+          "price_in_cents": 855000
+        }
+      },
+      "USD": {
+        "2": {
+          "price_in_cents": 55800
+        },
+        "3": {
+          "price_in_cents": 83700
+        },
+        "4": {
+          "price_in_cents": 111600
+        },
+        "5": {
+          "price_in_cents": 139500
+        },
+        "10": {
+          "price_in_cents": 155000
+        },
+        "20": {
+          "price_in_cents": 286000
+        },
+        "50": {
+          "price_in_cents": 655000
+        }
+      }
+    },
+    "collaborator": {
+      "AUD": {
+        "2": {
+          "price_in_cents": 33400
+        },
+        "3": {
+          "price_in_cents": 50100
+        },
+        "4": {
+          "price_in_cents": 66800
+        },
+        "5": {
+          "price_in_cents": 83500
+        },
+        "10": {
+          "price_in_cents": 93000
+        },
+        "20": {
+          "price_in_cents": 172000
+        },
+        "50": {
+          "price_in_cents": 390000
+        }
+      },
+      "BRL": {
+        "2": {
+          "price_in_cents": 69800
+        },
+        "3": {
+          "price_in_cents": 104700
+        },
+        "4": {
+          "price_in_cents": 139600
+        },
+        "5": {
+          "price_in_cents": 174500
+        },
+        "10": {
+          "price_in_cents": 194000
+        },
+        "20": {
+          "price_in_cents": 358000
+        },
+        "50": {
+          "price_in_cents": 820000
+        }
+      },
+      "CAD": {
+        "2": {
+          "price_in_cents": 32000
+        },
+        "3": {
+          "price_in_cents": 48000
+        },
+        "4": {
+          "price_in_cents": 64000
+        },
+        "5": {
+          "price_in_cents": 80000
+        },
+        "10": {
+          "price_in_cents": 89000
+        },
+        "20": {
+          "price_in_cents": 164000
+        },
+        "50": {
+          "price_in_cents": 375000
+        }
+      },
+      "CHF": {
+        "2": {
+          "price_in_cents": 27800
+        },
+        "3": {
+          "price_in_cents": 41700
+        },
+        "4": {
+          "price_in_cents": 55600
+        },
+        "5": {
+          "price_in_cents": 69500
+        },
+        "10": {
+          "price_in_cents": 77000
+        },
+        "20": {
+          "price_in_cents": 142000
+        },
+        "50": {
+          "price_in_cents": 325000
+        }
+      },
+      "CLP": {
+        "2": {
+          "price_in_cents": 15538600
+        },
+        "3": {
+          "price_in_cents": 23307900
+        },
+        "4": {
+          "price_in_cents": 31077200
+        },
+        "5": {
+          "price_in_cents": 38846500
+        },
+        "10": {
+          "price_in_cents": 43286000
+        },
+        "20": {
+          "price_in_cents": 79912000
+        },
+        "50": {
+          "price_in_cents": 183130000
+        }
+      },
+      "COP": {
+        "2": {
+          "price_in_cents": 54586000
+        },
+        "3": {
+          "price_in_cents": 81879000
+        },
+        "4": {
+          "price_in_cents": 109172000
+        },
+        "5": {
+          "price_in_cents": 136465000
+        },
+        "10": {
+          "price_in_cents": 152061000
+        },
+        "20": {
+          "price_in_cents": 280728000
+        },
+        "50": {
+          "price_in_cents": 643335000
+        }
+      },
+      "DKK": {
+        "2": {
+          "price_in_cents": 167800
+        },
+        "3": {
+          "price_in_cents": 251700
+        },
+        "4": {
+          "price_in_cents": 335600
+        },
+        "5": {
+          "price_in_cents": 419500
+        },
+        "10": {
+          "price_in_cents": 467000
+        },
+        "20": {
+          "price_in_cents": 862000
+        },
+        "50": {
+          "price_in_cents": 1975000
+        }
+      },
+      "EUR": {
+        "2": {
+          "price_in_cents": 25000
+        },
+        "3": {
+          "price_in_cents": 37500
+        },
+        "4": {
+          "price_in_cents": 50000
+        },
+        "5": {
+          "price_in_cents": 62500
+        },
+        "10": {
+          "price_in_cents": 69000
+        },
+        "20": {
+          "price_in_cents": 128000
+        },
+        "50": {
+          "price_in_cents": 295000
+        }
+      },
+      "GBP": {
+        "2": {
+          "price_in_cents": 22200
+        },
+        "3": {
+          "price_in_cents": 33300
+        },
+        "4": {
+          "price_in_cents": 44400
+        },
+        "5": {
+          "price_in_cents": 55500
+        },
+        "10": {
+          "price_in_cents": 62000
+        },
+        "20": {
+          "price_in_cents": 114000
+        },
+        "50": {
+          "price_in_cents": 260000
+        }
+      },
+      "INR": {
+        "2": {
+          "price_in_cents": 643800
+        },
+        "3": {
+          "price_in_cents": 965700
+        },
+        "4": {
+          "price_in_cents": 1287600
+        },
+        "5": {
+          "price_in_cents": 1609500
+        },
+        "10": {
+          "price_in_cents": 1793000
+        },
+        "20": {
+          "price_in_cents": 3310000
+        },
+        "50": {
+          "price_in_cents": 7585000
+        }
+      },
+      "MXN": {
+        "2": {
+          "price_in_cents": 405800
+        },
+        "3": {
+          "price_in_cents": 608700
+        },
+        "4": {
+          "price_in_cents": 811600
+        },
+        "5": {
+          "price_in_cents": 1014500
+        },
+        "10": {
+          "price_in_cents": 1130000
+        },
+        "20": {
+          "price_in_cents": 2086000
+        },
+        "50": {
+          "price_in_cents": 4780000
+        }
+      },
+      "NOK": {
+        "2": {
+          "price_in_cents": 202800
+        },
+        "3": {
+          "price_in_cents": 304200
+        },
+        "4": {
+          "price_in_cents": 405600
+        },
+        "5": {
+          "price_in_cents": 507000
+        },
+        "10": {
+          "price_in_cents": 565000
+        },
+        "20": {
+          "price_in_cents": 1042000
+        },
+        "50": {
+          "price_in_cents": 2390000
+        }
+      },
+      "NZD": {
+        "2": {
+          "price_in_cents": 33400
+        },
+        "3": {
+          "price_in_cents": 50100
+        },
+        "4": {
+          "price_in_cents": 66800
+        },
+        "5": {
+          "price_in_cents": 83500
+        },
+        "10": {
+          "price_in_cents": 93000
+        },
+        "20": {
+          "price_in_cents": 172000
+        },
+        "50": {
+          "price_in_cents": 390000
+        }
+      },
+      "PEN": {
+        "2": {
+          "price_in_cents": 64200
+        },
+        "3": {
+          "price_in_cents": 96300
+        },
+        "4": {
+          "price_in_cents": 128400
+        },
+        "5": {
+          "price_in_cents": 160500
+        },
+        "10": {
+          "price_in_cents": 179000
+        },
+        "20": {
+          "price_in_cents": 330000
+        },
+        "50": {
+          "price_in_cents": 755000
+        }
+      },
+      "SEK": {
+        "2": {
+          "price_in_cents": 202800
+        },
+        "3": {
+          "price_in_cents": 304200
+        },
+        "4": {
+          "price_in_cents": 405600
+        },
+        "5": {
+          "price_in_cents": 507000
+        },
+        "10": {
+          "price_in_cents": 565000
+        },
+        "20": {
+          "price_in_cents": 1042000
+        },
+        "50": {
+          "price_in_cents": 2390000
+        }
+      },
+      "SGD": {
+        "2": {
+          "price_in_cents": 36200
+        },
+        "3": {
+          "price_in_cents": 54300
+        },
+        "4": {
+          "price_in_cents": 72400
+        },
+        "5": {
+          "price_in_cents": 90500
+        },
+        "10": {
+          "price_in_cents": 101000
+        },
+        "20": {
+          "price_in_cents": 186000
+        },
+        "50": {
+          "price_in_cents": 425000
+        }
+      },
+      "USD": {
+        "2": {
+          "price_in_cents": 27800
+        },
+        "3": {
+          "price_in_cents": 41700
+        },
+        "4": {
+          "price_in_cents": 55600
+        },
+        "5": {
+          "price_in_cents": 69500
+        },
+        "10": {
+          "price_in_cents": 77000
+        },
+        "20": {
+          "price_in_cents": 142000
+        },
+        "50": {
+          "price_in_cents": 325000
+        }
+      }
+    }
+  },
+  "enterprise": {
+    "professional": {
+      "AUD": {
+        "2": {
+          "price_in_cents": 64200
+        },
+        "3": {
+          "price_in_cents": 96300
+        },
+        "4": {
+          "price_in_cents": 128400
+        },
+        "5": {
+          "price_in_cents": 160500
+        },
+        "10": {
+          "price_in_cents": 298000
+        },
+        "20": {
+          "price_in_cents": 550000
+        },
+        "50": {
+          "price_in_cents": 1260000
+        }
+      },
+      "BRL": {
+        "2": {
+          "price_in_cents": 139800
+        },
+        "3": {
+          "price_in_cents": 209700
+        },
+        "4": {
+          "price_in_cents": 279600
+        },
+        "5": {
+          "price_in_cents": 349500
+        },
+        "10": {
+          "price_in_cents": 649000
+        },
+        "20": {
+          "price_in_cents": 1198000
+        },
+        "50": {
+          "price_in_cents": 2745000
+        }
+      },
+      "CAD": {
+        "2": {
+          "price_in_cents": 62800
+        },
+        "3": {
+          "price_in_cents": 94200
+        },
+        "4": {
+          "price_in_cents": 125600
+        },
+        "5": {
+          "price_in_cents": 157000
+        },
+        "10": {
+          "price_in_cents": 291000
+        },
+        "20": {
+          "price_in_cents": 538000
+        },
+        "50": {
+          "price_in_cents": 1230000
+        }
+      },
+      "CHF": {
+        "2": {
+          "price_in_cents": 55800
+        },
+        "3": {
+          "price_in_cents": 83700
+        },
+        "4": {
+          "price_in_cents": 111600
+        },
+        "5": {
+          "price_in_cents": 139500
+        },
+        "10": {
+          "price_in_cents": 259000
+        },
+        "20": {
+          "price_in_cents": 478000
+        },
+        "50": {
+          "price_in_cents": 1095000
+        }
+      },
+      "CLP": {
+        "2": {
+          "price_in_cents": 33738600
+        },
+        "3": {
+          "price_in_cents": 50607900
+        },
+        "4": {
+          "price_in_cents": 67477200
+        },
+        "5": {
+          "price_in_cents": 84346500
+        },
+        "10": {
+          "price_in_cents": 156643000
+        },
+        "20": {
+          "price_in_cents": 289188000
+        },
+        "50": {
+          "price_in_cents": 662720000
+        }
+      },
+      "COP": {
+        "2": {
+          "price_in_cents": 110586000
+        },
+        "3": {
+          "price_in_cents": 165879000
+        },
+        "4": {
+          "price_in_cents": 221172000
+        },
+        "5": {
+          "price_in_cents": 276465000
+        },
+        "10": {
+          "price_in_cents": 513435000
+        },
+        "20": {
+          "price_in_cents": 947880000
+        },
+        "50": {
+          "price_in_cents": 2000000000
+        }
+      },
+      "DKK": {
+        "2": {
+          "price_in_cents": 333000
+        },
+        "3": {
+          "price_in_cents": 499500
+        },
+        "4": {
+          "price_in_cents": 666000
+        },
+        "5": {
+          "price_in_cents": 832500
+        },
+        "10": {
+          "price_in_cents": 1546000
+        },
+        "20": {
+          "price_in_cents": 2854000
+        },
+        "50": {
+          "price_in_cents": 6540000
+        }
+      },
+      "EUR": {
+        "2": {
+          "price_in_cents": 51600
+        },
+        "3": {
+          "price_in_cents": 77400
+        },
+        "4": {
+          "price_in_cents": 103200
+        },
+        "5": {
+          "price_in_cents": 129000
+        },
+        "10": {
+          "price_in_cents": 239000
+        },
+        "20": {
+          "price_in_cents": 442000
+        },
+        "50": {
+          "price_in_cents": 1010000
+        }
+      },
+      "GBP": {
+        "2": {
+          "price_in_cents": 44600
+        },
+        "3": {
+          "price_in_cents": 66900
+        },
+        "4": {
+          "price_in_cents": 89200
+        },
+        "5": {
+          "price_in_cents": 111500
+        },
+        "10": {
+          "price_in_cents": 207000
+        },
+        "20": {
+          "price_in_cents": 382000
+        },
+        "50": {
+          "price_in_cents": 875000
+        }
+      },
+      "INR": {
+        "2": {
+          "price_in_cents": 1343800
+        },
+        "3": {
+          "price_in_cents": 2015700
+        },
+        "4": {
+          "price_in_cents": 2687600
+        },
+        "5": {
+          "price_in_cents": 3359500
+        },
+        "10": {
+          "price_in_cents": 6239000
+        },
+        "20": {
+          "price_in_cents": 11518000
+        },
+        "50": {
+          "price_in_cents": 26395000
+        }
+      },
+      "MXN": {
+        "2": {
+          "price_in_cents": 825800
+        },
+        "3": {
+          "price_in_cents": 1238700
+        },
+        "4": {
+          "price_in_cents": 1651600
+        },
+        "5": {
+          "price_in_cents": 2064500
+        },
+        "10": {
+          "price_in_cents": 3834000
+        },
+        "20": {
+          "price_in_cents": 7078000
+        },
+        "50": {
+          "price_in_cents": 16220000
+        }
+      },
+      "NOK": {
+        "2": {
+          "price_in_cents": 401600
+        },
+        "3": {
+          "price_in_cents": 602400
+        },
+        "4": {
+          "price_in_cents": 803200
+        },
+        "5": {
+          "price_in_cents": 1004000
+        },
+        "10": {
+          "price_in_cents": 1864000
+        },
+        "20": {
+          "price_in_cents": 3442000
+        },
+        "50": {
+          "price_in_cents": 7885000
+        }
+      },
+      "NZD": {
+        "2": {
+          "price_in_cents": 64200
+        },
+        "3": {
+          "price_in_cents": 96300
+        },
+        "4": {
+          "price_in_cents": 128400
+        },
+        "5": {
+          "price_in_cents": 160500
+        },
+        "10": {
+          "price_in_cents": 298000
+        },
+        "20": {
+          "price_in_cents": 550000
+        },
+        "50": {
+          "price_in_cents": 1260000
+        }
+      },
+      "PEN": {
+        "2": {
+          "price_in_cents": 134200
+        },
+        "3": {
+          "price_in_cents": 201300
+        },
+        "4": {
+          "price_in_cents": 268400
+        },
+        "5": {
+          "price_in_cents": 335500
+        },
+        "10": {
+          "price_in_cents": 623000
+        },
+        "20": {
+          "price_in_cents": 1150000
+        },
+        "50": {
+          "price_in_cents": 2635000
+        }
+      },
+      "SEK": {
+        "2": {
+          "price_in_cents": 401600
+        },
+        "3": {
+          "price_in_cents": 602400
+        },
+        "4": {
+          "price_in_cents": 803200
+        },
+        "5": {
+          "price_in_cents": 1004000
+        },
+        "10": {
+          "price_in_cents": 1864000
+        },
+        "20": {
+          "price_in_cents": 3442000
+        },
+        "50": {
+          "price_in_cents": 7885000
+        }
+      },
+      "SGD": {
+        "2": {
+          "price_in_cents": 72600
+        },
+        "3": {
+          "price_in_cents": 108900
+        },
+        "4": {
+          "price_in_cents": 145200
+        },
+        "5": {
+          "price_in_cents": 181500
+        },
+        "10": {
+          "price_in_cents": 337000
+        },
+        "20": {
+          "price_in_cents": 622000
+        },
+        "50": {
+          "price_in_cents": 1425000
+        }
+      },
+      "USD": {
+        "2": {
+          "price_in_cents": 55800
+        },
+        "3": {
+          "price_in_cents": 83700
+        },
+        "4": {
+          "price_in_cents": 111600
+        },
+        "5": {
+          "price_in_cents": 139500
+        },
+        "10": {
+          "price_in_cents": 259000
+        },
+        "20": {
+          "price_in_cents": 478000
+        },
+        "50": {
+          "price_in_cents": 1095000
+        }
+      }
+    },
+    "collaborator": {
+      "AUD": {
+        "2": {
+          "price_in_cents": 33400
+        },
+        "3": {
+          "price_in_cents": 50100
+        },
+        "4": {
+          "price_in_cents": 66800
+        },
+        "5": {
+          "price_in_cents": 83500
+        },
+        "10": {
+          "price_in_cents": 155000
+        },
+        "20": {
+          "price_in_cents": 286000
+        },
+        "50": {
+          "price_in_cents": 655000
+        }
+      },
+      "BRL": {
+        "2": {
+          "price_in_cents": 69800
+        },
+        "3": {
+          "price_in_cents": 104700
+        },
+        "4": {
+          "price_in_cents": 139600
+        },
+        "5": {
+          "price_in_cents": 174500
+        },
+        "10": {
+          "price_in_cents": 324000
+        },
+        "20": {
+          "price_in_cents": 598000
+        },
+        "50": {
+          "price_in_cents": 1370000
+        }
+      },
+      "CAD": {
+        "2": {
+          "price_in_cents": 32000
+        },
+        "3": {
+          "price_in_cents": 48000
+        },
+        "4": {
+          "price_in_cents": 64000
+        },
+        "5": {
+          "price_in_cents": 80000
+        },
+        "10": {
+          "price_in_cents": 148000
+        },
+        "20": {
+          "price_in_cents": 274000
+        },
+        "50": {
+          "price_in_cents": 625000
+        }
+      },
+      "CHF": {
+        "2": {
+          "price_in_cents": 27800
+        },
+        "3": {
+          "price_in_cents": 41700
+        },
+        "4": {
+          "price_in_cents": 55600
+        },
+        "5": {
+          "price_in_cents": 69500
+        },
+        "10": {
+          "price_in_cents": 129000
+        },
+        "20": {
+          "price_in_cents": 238000
+        },
+        "50": {
+          "price_in_cents": 545000
+        }
+      },
+      "CLP": {
+        "2": {
+          "price_in_cents": 15538600
+        },
+        "3": {
+          "price_in_cents": 23307900
+        },
+        "4": {
+          "price_in_cents": 31077200
+        },
+        "5": {
+          "price_in_cents": 38846500
+        },
+        "10": {
+          "price_in_cents": 72143000
+        },
+        "20": {
+          "price_in_cents": 133188000
+        },
+        "50": {
+          "price_in_cents": 305220000
+        }
+      },
+      "COP": {
+        "2": {
+          "price_in_cents": 54586000
+        },
+        "3": {
+          "price_in_cents": 81879000
+        },
+        "4": {
+          "price_in_cents": 109172000
+        },
+        "5": {
+          "price_in_cents": 136465000
+        },
+        "10": {
+          "price_in_cents": 253435000
+        },
+        "20": {
+          "price_in_cents": 467880000
+        },
+        "50": {
+          "price_in_cents": 1072225000
+        }
+      },
+      "DKK": {
+        "2": {
+          "price_in_cents": 167800
+        },
+        "3": {
+          "price_in_cents": 251700
+        },
+        "4": {
+          "price_in_cents": 335600
+        },
+        "5": {
+          "price_in_cents": 419500
+        },
+        "10": {
+          "price_in_cents": 779000
+        },
+        "20": {
+          "price_in_cents": 1438000
+        },
+        "50": {
+          "price_in_cents": 3295000
+        }
+      },
+      "EUR": {
+        "2": {
+          "price_in_cents": 25000
+        },
+        "3": {
+          "price_in_cents": 37500
+        },
+        "4": {
+          "price_in_cents": 50000
+        },
+        "5": {
+          "price_in_cents": 62500
+        },
+        "10": {
+          "price_in_cents": 116000
+        },
+        "20": {
+          "price_in_cents": 214000
+        },
+        "50": {
+          "price_in_cents": 490000
+        }
+      },
+      "GBP": {
+        "2": {
+          "price_in_cents": 22200
+        },
+        "3": {
+          "price_in_cents": 33300
+        },
+        "4": {
+          "price_in_cents": 44400
+        },
+        "5": {
+          "price_in_cents": 55500
+        },
+        "10": {
+          "price_in_cents": 103000
+        },
+        "20": {
+          "price_in_cents": 190000
+        },
+        "50": {
+          "price_in_cents": 435000
+        }
+      },
+      "INR": {
+        "2": {
+          "price_in_cents": 643800
+        },
+        "3": {
+          "price_in_cents": 965700
+        },
+        "4": {
+          "price_in_cents": 1287600
+        },
+        "5": {
+          "price_in_cents": 1609500
+        },
+        "10": {
+          "price_in_cents": 2989000
+        },
+        "20": {
+          "price_in_cents": 5518000
+        },
+        "50": {
+          "price_in_cents": 12645000
+        }
+      },
+      "MXN": {
+        "2": {
+          "price_in_cents": 405800
+        },
+        "3": {
+          "price_in_cents": 608700
+        },
+        "4": {
+          "price_in_cents": 811600
+        },
+        "5": {
+          "price_in_cents": 1014500
+        },
+        "10": {
+          "price_in_cents": 1884000
+        },
+        "20": {
+          "price_in_cents": 3478000
+        },
+        "50": {
+          "price_in_cents": 7970000
+        }
+      },
+      "NOK": {
+        "2": {
+          "price_in_cents": 202800
+        },
+        "3": {
+          "price_in_cents": 304200
+        },
+        "4": {
+          "price_in_cents": 405600
+        },
+        "5": {
+          "price_in_cents": 507000
+        },
+        "10": {
+          "price_in_cents": 941000
+        },
+        "20": {
+          "price_in_cents": 1738000
+        },
+        "50": {
+          "price_in_cents": 3980000
+        }
+      },
+      "NZD": {
+        "2": {
+          "price_in_cents": 33400
+        },
+        "3": {
+          "price_in_cents": 50100
+        },
+        "4": {
+          "price_in_cents": 66800
+        },
+        "5": {
+          "price_in_cents": 83500
+        },
+        "10": {
+          "price_in_cents": 155000
+        },
+        "20": {
+          "price_in_cents": 286000
+        },
+        "50": {
+          "price_in_cents": 655000
+        }
+      },
+      "PEN": {
+        "2": {
+          "price_in_cents": 64200
+        },
+        "3": {
+          "price_in_cents": 96300
+        },
+        "4": {
+          "price_in_cents": 128400
+        },
+        "5": {
+          "price_in_cents": 160500
+        },
+        "10": {
+          "price_in_cents": 298000
+        },
+        "20": {
+          "price_in_cents": 550000
+        },
+        "50": {
+          "price_in_cents": 1260000
+        }
+      },
+      "SEK": {
+        "2": {
+          "price_in_cents": 202800
+        },
+        "3": {
+          "price_in_cents": 304200
+        },
+        "4": {
+          "price_in_cents": 405600
+        },
+        "5": {
+          "price_in_cents": 507000
+        },
+        "10": {
+          "price_in_cents": 941000
+        },
+        "20": {
+          "price_in_cents": 1738000
+        },
+        "50": {
+          "price_in_cents": 3980000
+        }
+      },
+      "SGD": {
+        "2": {
+          "price_in_cents": 36200
+        },
+        "3": {
+          "price_in_cents": 54300
+        },
+        "4": {
+          "price_in_cents": 72400
+        },
+        "5": {
+          "price_in_cents": 90500
+        },
+        "10": {
+          "price_in_cents": 168000
+        },
+        "20": {
+          "price_in_cents": 310000
+        },
+        "50": {
+          "price_in_cents": 710000
+        }
+      },
+      "USD": {
+        "2": {
+          "price_in_cents": 27800
+        },
+        "3": {
+          "price_in_cents": 41700
+        },
+        "4": {
+          "price_in_cents": 55600
+        },
+        "5": {
+          "price_in_cents": 69500
+        },
+        "10": {
+          "price_in_cents": 129000
+        },
+        "20": {
+          "price_in_cents": 238000
+        },
+        "50": {
+          "price_in_cents": 545000
+        }
+      }
+    }
+  }
+}
